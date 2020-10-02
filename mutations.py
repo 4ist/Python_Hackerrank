@@ -1,3 +1,7 @@
+'''
+Source: https://www.hackerrank.com/challenges/python-mutations/problem
+'''
+
 n=input()
 m=input().split()
 l=list(n)

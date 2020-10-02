@@ -1,3 +1,7 @@
+'''
+Source: https://www.hackerrank.com/challenges/no-idea/problem
+'''
+
 n=input()
 count=0
 a=set(input())
